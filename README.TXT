@@ -7,6 +7,8 @@ all he/she needs to know. The comments should usually include at least:
 PROJECT TITLE: Breaking caesar cipher
 PURPOSE OF PROJECT: encrypting and decrypting text using caesar cipher
 VERSION or DATE:
-HOW TO START THIS PROJECT: CaesarCipher2.java contains the code to encrypt and decrypt the message
+HOW TO START THIS PROJECT: CaesarCipher.java contains the code to encrypt and decrypt the message using one key
+                           CaesarCipher2.java contains the code to encrypt and decrypt the message using two keys
 AUTHORS: Shivam
-USER INSTRUCTIONS: CaesarCipher2.java contains the code to encrypt and decrypt the message
+USER INSTRUCTIONS: CaesarCipher.java contains the code to encrypt and decrypt the message using one key
+                   CaesarCipher2.java contains the code to encrypt and decrypt the message using two keys
